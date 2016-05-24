@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">FutureERP</string>
+    <string name="username">User Name</string>
+    <string name="enterusername">Enter User Name</string>
+    <string name="password">Password</string>
+    <string name="enterpassword"> Enter Password</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="dob">D.O.B</string>
+    <string name="enterbirth">Enter Date Of Birth</string>
+    <string name="gender">Gender</string>
+    <string name="entergender">Enter Gender</string>
+    <string name="email">Email</string>
+    <string name="enteremail">Enter Email</string>
+</resources>
